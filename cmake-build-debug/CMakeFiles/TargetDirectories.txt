@@ -1,0 +1,3 @@
+/home/snood/Документы/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/Files_HW/cmake-build-debug/CMakeFiles/Files_HW.dir
+/home/snood/Документы/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/Files_HW/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/snood/Документы/ШАГ/Объектно-ориентированное программирование на языке C++/Projects/Files_HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
